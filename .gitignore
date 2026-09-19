@@ -1,0 +1,116 @@
+# =============================================
+# ARCHIVOS ESPECÍFICOS DE NETBEANS
+# =============================================
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+nb-configuration.xml
+
+# =============================================
+# ARCHIVOS ESPECÍFICOS DE MAVEN
+# =============================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# =============================================
+# ARCHIVOS ESPECÍFICOS DE JAVA
+# =============================================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# =============================================
+# ARCHIVOS ESPECÍFICOS DE IDE
+# =============================================
+# Eclipse
+.settings/
+.project
+.classpath
+.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Visual Studio Code
+.vscode/
+
+# NetBeans (adicional)
+nbproject/
+
+# =============================================
+# ARCHIVOS DE SISTEMA OPERATIVO
+# =============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# =============================================
+# LOGS Y TEMPORALES
+# =============================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# =============================================
+# CONFIGURACIÓN LOCAL (IMPORTANTE)
+# =============================================
+# Archivos con credenciales locales
+local.properties
+*.local.properties
+
+# Configuración de base de datos (si se separa)
+db-config.properties
+
+# =============================================
+# ARCHIVOS DE COMPILACIÓN
+# =============================================
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
